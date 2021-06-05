@@ -33,10 +33,6 @@ jupyter-console==6.0.0
 jupyter-core==4.6.1
 jupyterlab==1.2.4
 jupyterlab-server==1.0.6
-Kivy==1.11.1
-kivy-deps.gstreamer==0.1.18
-kivy-deps.sdl2==0.1.23
-Kivy-Garden==0.1.4
 kiwisolver==1.1.0
 lab==5.2
 MarkupSafe==1.1.1
